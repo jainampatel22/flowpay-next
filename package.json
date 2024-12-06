@@ -31,7 +31,7 @@
     ".": "./src/index.ts"
   },
   "prisma": {
-    "seed": "ts-node prisma/seed.ts"
+    "seed": "/seed.ts"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
